@@ -94,6 +94,14 @@ The footprint will be automatically assigned. If you need to assign it manually,
 
 ---
 
+## License
+
+[CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) — Attribution-NonCommercial-ShareAlike 4.0 International.
+
+This is a derivative work. The original library by pforrmi was shared under CC BY-NC-SA 4.0. Modifications (conversion to KiCad V6+ native `.kicad_sym` / `.kicad_mod` format) are by v01d.dev and are distributed under the same license.
+
+---
+
 ## Credits
 
-Original KiCad 4/5 library by [pforrmi](https://github.com/pforrmi/KiCad-SSD1306-128x64). This repo converts that work to KiCad V6 native format.
+Original KiCad 4/5 library by [pforrmi](https://github.com/pforrmi/KiCad-SSD1306-128x64), licensed under [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/). This repo converts that work to KiCad V6+ native format.
